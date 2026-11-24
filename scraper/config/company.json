@@ -1,0 +1,10 @@
+{
+  "id": "39167242",
+  "company": "LUSITANA CLEAN S.R.L.",
+  "brand": "Lusitana",
+  "status": "activ",
+  "location": ["Piatra Neamț"],
+  "website": ["https://www.lusitana.ro"],
+  "career": ["https://mediere.anofm.ro/app/module/mediere/jobs"],
+  "scraperFile": "https://github.com/peviitor-scrapers/lusitana-clean-srl-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
