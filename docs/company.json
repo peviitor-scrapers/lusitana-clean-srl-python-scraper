@@ -13,5 +13,5 @@
     "https://mediere.anofm.ro/app/module/mediere/jobs"
   ],
   "scraperFile": "https://github.com/peviitor-scrapers/lusitana-clean-srl-python-scraper/actions/workflows/job-seeker-ro-spider.yml",
-  "lastScraped": "2026-11-25"
+  "lastScraped": "2026-11-26"
 }
